@@ -1,0 +1,1 @@
+# go_deadcode_sample
